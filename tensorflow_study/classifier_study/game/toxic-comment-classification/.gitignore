@@ -1,0 +1,10 @@
+data/*
+words_vector/*
+.ipynb_checkpoints/*
+*.csv
+toxic_comment_classification_benchmark.ipynb
+.h5
+.zip
+model_h5_file/*
+__pycache__/*
+model/*
