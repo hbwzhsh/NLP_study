@@ -6,6 +6,29 @@
 
 ## 目录内容介绍
 
+### eda_study 目录
+
+#### commom_eda_study 项目
+
+##### 项目介绍
+
+常用的数据增强策列（增删改）
+
+#### EDA_Markov_Chain 项目
+
+##### 项目介绍
+
+基于Markov Chain的极简数据增强方法
+
+### algorithm_study 目录
+
+#### self-attention_study 目录
+
+##### 项目jeis
+
+self-attention 学习
+
+
 ### tensorflow_study 目录
 
 该目录下的所有 项目 都是 由  tensorflow 编写，具体 工程如下：
@@ -124,3 +147,109 @@ PER: accuracy:  99.74%; precision:  88.09%; recall:  81.05%; FB1:  84.43  2326
 ```
 
 
+
+
+### keras_study 目录
+
+该目录下的所有 项目 都是 由  tensorflow 编写，具体 工程如下：
+
+#### classifier_study
+
+##### 项目介绍
+
+文本分类常用方法汇总：    
+    - FastText
+    - TextCNN
+    - charCNN
+    - TextRNN
+    - TextRCNN
+    - TextDCNN
+    - TextDPCNN
+    - TextVDCNN
+    - TextCRNN
+    - DeepMoji
+    - SelfAttention
+    - HAN
+    - CapsuleNet
+    - Transformer-encode
+
+##### 项目要求
+
+    - gensim>=3.7.1
+    - jieba>=0.39
+    - numpy>=1.16.2
+    - pandas>=0.23.4
+    - scikit-learn>=0.19.1
+    - tflearn>=0.3.2
+    - tqdm>=4.31.1
+    - passlib>=1.7.1
+    - keras==2.2.4
+    - tensorflow-gpu==1.12.0
+    - keras-bert>=0.80.0
+    - keras-xlnet>=0.16.0
+    - keras-adaptive-softmax>=0.6.0
+
+##### 项目使用
+
+看 具体介绍
+
+#### muli_label_classifier_study
+
+##### 项目介绍
+
+多标签文本分类常用方法汇总：    
+    - FastText
+    - TextCNN
+    - TextRNN
+    - TextRCNN
+    - SelfAttention
+    - HAN
+    - Transformer-encode
+
+##### 项目要求
+
+    - gensim>=3.7.1
+    - jieba>=0.39
+    - numpy>=1.16.2
+    - pandas>=0.23.4
+    - scikit-learn>=0.19.1
+    - tflearn>=0.3.2
+    - tqdm>=4.31.1
+    - passlib>=1.7.1
+    - keras==2.2.4
+    - tensorflow-gpu==1.12.0
+    - keras-bert>=0.80.0
+    - keras-xlnet>=0.16.0
+    - keras-adaptive-softmax>=0.6.0
+
+##### 项目使用
+
+看 具体介绍
+
+### pytorch_study 目录
+
+#### Chinese_Text_Classification
+
+##### 项目介绍
+
+中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention, DPCNN, Transformer, 基于pytorch，开箱即用。
+
+##### 项目要求
+
+python 3.7  
+pytorch 1.1  
+tqdm  
+sklearn  
+tensorboardX
+
+#### NER_study
+
+##### 项目介绍
+
+命名实体识别项目
+
+#### QA_study
+
+##### 项目介绍
+
+自动问答项目
